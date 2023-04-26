@@ -8,7 +8,7 @@ visit the site, the time they spend there, how they reached the site and the con
 
 1. Read and Cleaning of the Data:
 Primarily the data was divided into data from source and data from sales team. The columns
-specific to sales team are hereunder:
+specific to sales team are:
 -Tags, Lead Quality , Last Activity , Lead Profile , Asymmetrique Activity Index , Asymmetrique
 Profile Index , Asymmetrique Activity Score , Asymmetrique Profile Score , Last Notable Activity.
 The aforementioned columns were dropped since these columns give the details of individual
